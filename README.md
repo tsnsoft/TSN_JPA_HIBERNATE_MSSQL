@@ -1,8 +1,7 @@
 # TSN_JPA_HIBERNATE
-Пример использования технологии JPA HIBERNATE в Java для NetBeans
+Пример использования технологии JPA HIBERNATE в Java для NetBeans с MS SQL
 
-![screenshot](screenshot.png)
-
+![screenshot](screenshot.jpg)
 
 Скрипты для создания таблиц:
 
@@ -47,3 +46,13 @@ CREATE TABLE [dbo].[users](
 ) ON [PRIMARY]
 GO
 ```
+**Это настройки, без которых ничего не заработает...)**
+
+![screenshot](screenshot1.jpg)
+
+![screenshot](screenshot2.jpg)
+
+![screenshot](screenshot3.jpg)
+
+![screenshot](screenshot4.jpg)
+
